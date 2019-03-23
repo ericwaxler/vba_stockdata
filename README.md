@@ -1,2 +1,1 @@
 # vba_stockdata
-Us
